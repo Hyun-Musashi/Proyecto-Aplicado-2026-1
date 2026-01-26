@@ -19,7 +19,7 @@ El repositorio servirá como base para el desarrollo del proyecto durante el cur
 
 | Nombre del Estudiante | Rol Principal | Usuario GitHub |
 |----------------------|--------------|----------------|
-| [Balwin Mena Rosario] | Frontend | [¿?] |
+| [Balwin Mena Rosario] | Frontend | [baldwinmena2028-art] |
 | [Oscar De Jesus Jimenez Pimentel] | Backend | [¿?] |
 | [Jose Abrahan Nuñez Taveras] | Lead / Fullstack | [Hyun-Musashi] |
 
