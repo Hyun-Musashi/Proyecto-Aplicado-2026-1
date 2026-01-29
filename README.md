@@ -19,6 +19,35 @@ La revista abordará diversas áreas de interés general, tales como:
 - Ciencias
 - Educación
 - Deportes
+
+---
+
+## Tecnologias Base a Usar.
+
+- Frontend: Angular (HTML, CSS, TypeScript)
+- Backend: Node.js + Express
+- Base de datos: SQLite
+
+---
+
+## Lenguajes de Programacion, Marcado y Estilo.
+
+- TypeScript
+- HTML
+- CSS
+
+---
+
+## Funcionalidades mínimas:
+
+- Registro e inicio de sesión de usuarios.
+- Creación, edición y eliminación de revistas.
+- Gestión de artículos dentro de cada revista.
+- Visualización de revistas por categorías.
+- Sistema de búsqueda y filtrado de contenido.
+- Interfaz: diseño responsivo compatible con dispositivos móviles y de escritorio.
+- Seguridad: autenticación básica, validación de formularios y protección de datos de usuario.
+
 ---
 
 ## Ficha del Mas Esencial En Todo El Universo.
