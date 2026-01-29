@@ -26,7 +26,7 @@ La revista abordará diversas áreas de interés general, tales como:
 
 - Frontend: Angular (HTML, CSS, TypeScript)
 - Backend: Node.js + Express
-- Base de datos: SQLite
+- Base de datos: SQL Server
 
 ---
 
