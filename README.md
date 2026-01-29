@@ -7,33 +7,37 @@
 
 ---
 
-## Descripción del Proyecto
+## Descripción del Proyecto.
 
-Este proyecto tiene como objetivo desarrollar una aplicación como parte del Entregable #1, donde se define la idea inicial del sistema, la organización del equipo y la distribución de responsabilidades.
+Este proyecto consiste en el desarrollo de una Revista Digital, cuyo objetivo es ofrecer contenido informativo y educativo a través de una plataforma web moderna e intuitiva.
 
-El repositorio servirá como base para el desarrollo del proyecto durante el curso.
+La revista abordará diversas áreas de interés general, tales como:
 
+- Cultura
+- Tecnología
+- Entretenimiento
+- Ciencias
+- Educación
+- Deportes
 ---
 
-## Ficha del Equipo (Semana 1)
+## Ficha del Mas Esencial En Todo El Universo.
 
 | Nombre del Estudiante | Rol Principal | Usuario GitHub |
 |----------------------|--------------|----------------|
-| [Balwin Mena Rosario] | Frontend | [baldwinmena2028-art] |
-| [Oscar De Jesus Jimenez Pimentel] | Backend | [jimenezpimentel] |
-| [Jose Abrahan Nuñez Taveras] | Lead / Fullstack | [Hyun-Musashi] |
+| [Jose Abrahan Nuñez Taveras] | Desarrollo General (Frontend / Backend / Documentación) | [Hyun-Musashi] |
 
 ---
 
 ## Organización del Trabajo
 
-El trabajo se distribuyó de la siguiente manera:
+El desarrollo del proyecto se organiza en las siguientes áreas:
 
-- **Frontend:** Diseño de la interfaz, estructura visual y experiencia del usuario.
-- **Backend:** Lógica del sistema, manejo de datos y servicios.
-- **Documentación:** Registro del proceso, acuerdos y avances del proyecto.
+- **Frontend:** Diseño de la interfaz, estructura visual, navegación y experiencia del usuario.
+- **Backend:** Lógica del sistema, manejo de datos, servicios y funcionamiento interno de la aplicación.
+- **Documentación:** Registro del proceso de desarrollo, decisiones técnicas, avances y acuerdos del proyecto.
 
-Esta división permite un desarrollo ordenado y eficiente.
+Esta organización permite mantener un desarrollo estructurado y controlado.
 
 ---
 
@@ -45,10 +49,16 @@ El proyecto se encuentra alojado en GitHub e incluye:
 - Estructura inicial del proyecto
 - Control de versiones mediante commits
 
-**Enlace del repositorio:** [Mantenimiento]
+**Enlace del repositorio:** [En Mantenimiento Mis Pequeños Saltamontes]
 
 ---
 
 ## Estado Actual del Proyecto
 
-El proyecto se encuentra en una fase inicial, con la idea definida y la organización del equipo establecida, listo para continuar con las siguientes etapas del desarrollo. y abarcar lo que se pueda mis pequeños saltamontes.
+Actualmente, el proyecto se encuentra en una fase inicial, con:
+
+- Idea del sistema definida
+- Alcance del proyecto establecido
+- Organización del trabajo planteada
+
+El proyecto está listo para avanzar a las siguientes etapas de análisis, diseño y desarrollo durante el curso.
