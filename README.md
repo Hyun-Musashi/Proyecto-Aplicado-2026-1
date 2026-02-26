@@ -24,9 +24,9 @@ La revista abordará diversas áreas de interés general, tales como:
 
 ## Tecnologias Base a Usar.
 
-- Frontend: Angular (HTML, CSS, TypeScript)
+- Frontend: HTML, CSS, TypeScript
 - Backend: Node.js + Express
-- Base de datos: SQL Server
+- Base de datos: MySQL
 
 ---
 
