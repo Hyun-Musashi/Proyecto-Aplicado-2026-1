@@ -19,12 +19,13 @@ La revista abordará diversas áreas de interés general, tales como:
 - Ciencias
 - Educación
 - Deportes
+- Etc
 
 ---
 
 ## Tecnologias Base a Usar.
 
-- Frontend: HTML, CSS, TypeScript
+- Frontend: HTML, CSS, JS
 - Backend: Node.js + Express
 - Base de datos: MySQL
 
@@ -32,9 +33,9 @@ La revista abordará diversas áreas de interés general, tales como:
 
 ## Lenguajes de Programacion, Marcado y Estilo.
 
-- TypeScript
 - HTML
 - CSS
+- JS
 
 ---
 
